@@ -53,6 +53,8 @@ Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.
 * **Set-Location**: Changes the current directory (like cd in Command Prompt).
 * **New-Item**: Creates a new file or directory.
 
+Add-Content: Appends content, such as words or data, to a file.
+
 ## Example Script
 
 Here’s a simple script to list all files in a directory and display their sizes:
