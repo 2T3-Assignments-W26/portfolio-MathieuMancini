@@ -1,0 +1,21 @@
+Brain Storming
+
+Personal Info:
+- Name: Mathieu Mancini
+- Goal: Become a Full Stack Developer
+- Contact: [Your Email]
+
+Skills:
+- Programming: C#, Markdown, Git, html, css
+- Tools: VS Code, GitHub, Windows Terminal, VS
+- Soft Skills: Problem-solving, Team collaboration, Time management
+
+Education:
+- Current: [John Abbott College]
+- program: Computer Science
+- Key Projects: Lab 1 (HTML), Lab 2 (CSS), Lab 3 (Git Basics)
+
+Experience/Hobbies:
+- job: h
+- Built a personal blog using HTML
+- Fast learner with new documentation
