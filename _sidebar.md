@@ -5,4 +5,6 @@
   - [Git](cheatsheets/git.md)
   - [PowerShell](cheatsheets/powershell.md)
 
-- About Me
+- About me
+  - [My Resume](aboutme/Mathieu_Mancini_2572064.md)
+  - [My Projects](aboutme/myProjects.md)
